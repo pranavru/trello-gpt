@@ -1,5 +1,5 @@
-import { UserCircleIcon } from '@heroicons/react/20/solid'
 import React from 'react'
+import { UserCircleIcon } from '@heroicons/react/20/solid'
 
 export const SummaryCard = () => {
   const summary = 'GPT is summarizing your tasks for the day....';

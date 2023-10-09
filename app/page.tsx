@@ -1,13 +1,11 @@
+import { BoardComponent } from "@/components/board";
 import { HeaderComponent } from "@/components/header";
 
 export default function Home() {
   return (
     <main>
-      {/* HEADER */}
       <HeaderComponent/>
-
-      {/* BOARD */}
-      <h1>Trello AI App</h1>
+      <BoardComponent/>
     </main>
   )
 }

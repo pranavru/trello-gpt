@@ -1,9 +1,11 @@
 'use client'
 
 import React from 'react'
-import { baseLink, trelloPrimaryColor } from '../literals'
+import { 
+  baseLink, 
+  trelloPrimaryColor
+} from '../literals'
 import Image from 'next/image'
-import { MagnifyingGlassIcon, UserCircleIcon } from '@heroicons/react/20/solid'
 import Avatar from 'react-avatar'
 import { GlobalSearch } from './global-search'
 import { SummaryCard } from './summary-card'

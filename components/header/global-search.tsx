@@ -1,5 +1,5 @@
-import { MagnifyingGlassIcon } from '@heroicons/react/20/solid'
 import React from 'react'
+import { MagnifyingGlassIcon } from '@heroicons/react/20/solid'
 
 export const GlobalSearch = () => {
   return (
